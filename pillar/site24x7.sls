@@ -1,6 +1,6 @@
 site24x7:
   user:
-    fullname: ABC
+    fullname: ABCD
     devicekey: in_3b71309ec902a68e8cd4707058d1cdde
     proxy: None
     osArch: {{ grains['cpuarch'] }}
